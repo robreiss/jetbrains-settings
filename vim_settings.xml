@@ -12,8 +12,11 @@
         <mark key="^" line="48" column="92" />
         <mark key="." line="48" column="92" />
       </file>
-      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1502936360543">
-        <mark key="'" line="80" column="0" />
+      <file name="$USER_HOME$/Workspace/source/GenX.UI.Windows/GenX.UI.WindowsBase/WinFormBase.cs" timestamp="1502969941401">
+        <mark key="'" line="55" column="0" />
+      </file>
+      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1502969931933">
+        <mark key="'" line="8" column="56" />
         <mark key="[" line="30" column="8" />
         <mark key="]" line="30" column="8" />
         <mark key="." line="30" column="8" />
@@ -34,6 +37,8 @@
     <jumps>
       <jump line="75" column="0" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="76" column="0" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="8" column="56" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/Workspace/source/GenX.UI.Windows/GenX.UI.WindowsBase/WinFormBase.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
