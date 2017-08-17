@@ -18,11 +18,11 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="C:/nginx-1.13.3/html/funcunit/browser/open.js" timestamp="1502987297460">
-        <mark key="'" line="293" column="4" />
-        <mark key="[" line="65" column="33" />
-        <mark key="]" line="65" column="43" />
-        <mark key="." line="65" column="43" />
+      <file name="C:/nginx-1.13.3/html/funcunit/browser/open.js" timestamp="1502991457222">
+        <mark key="'" line="292" column="4" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
         <mark key="^" line="65" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/83a1aeaa-64c1-4b78-82e3-77c8dd3dbc97/console.sql" timestamp="1502284945275">
@@ -43,12 +43,12 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1502988953367">
-        <mark key="'" line="54" column="24" />
-        <mark key="[" line="22" column="6" />
-        <mark key="]" line="1" column="6" />
-        <mark key="." line="1" column="6" />
-        <mark key="^" line="3" column="62" />
+      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1502991563327">
+        <mark key="'" line="55" column="24" />
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+        <mark key="^" line="2" column="35" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4ddde90-ec9c-4cf6-bc4b-2a1e551f1508/console_3.sql" timestamp="1502842467603">
         <mark key="[" line="2" column="28" />
@@ -127,10 +127,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdQYWdlXD4=</text>
@@ -139,31 +139,31 @@
         <text>'https://d1www.wine.com/auth/register?next=%2F'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gb25PcGVuKCkgewogICAgICAgICAgICAgICAgRi53aW4ucmVzaXplVG8oMTAyNCwgNzY4KTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCJvcGVuaW5nIHdpbmRvdyByb2IiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGLm9wZW4oJ2h0dHBzOi8vZDF3d3cud2luZS5jb20vYXV0aC9yZWdpc3Rlcj9uZXh0PSUyRicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInRvcD0wLGxlZnQ9MTcwMCxoZWlnaHQ9NjcwLHdpZHRoPTk2MCxyZXNpemFibGU9eWVzLHRvb2xiYXI9eWVzLG1lbnViYXI9bm8sc2Nyb2xsYmFycz15ZXMsbG9jYXRpb249eWVzLHN0YXR1cz15ZXMiICk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGLm9wZW4oImh0dHA6Ly9qc29ucHJldHR5cHJpbnQuY29tLyIsICJoZWlnaHQ9NjQwLHdpZHRoPTk2MCx0b29sYmFyPW5vLG1lbnViYXI9bm8sc2Nyb2xsYmFycz1ubyxsb2NhdGlvbj1ubyxzdGF0dXM9bm9zdGF0dXMiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gb25PcGVuKCkgewogICAgICAgICAgICAgICAgRi53aW4ucmVzaXplVG8oMTAyNCwgNzY4KTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coIm9wZW5pbmcgd2luZG93IHJvYiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBGLm9wZW4oJ2h0dHBzOi8vZDF3d3cud2luZS5jb20vYXV0aC9yZWdpc3Rlcj9uZXh0PSUyRicsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gb25PcGVuKCkgewogICAgICAgICAgICAgICAgRi53aW4ucmVzaXplVG8oNzUwLCA1NjgpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBGLm9wZW4oImh0dHA6Ly9qc29ucHJldHR5cHJpbnQuY29tLyIsICJoZWlnaHQ9NjQwLHdpZHRoPTk2MCx0b29sYmFyPW5vLG1lbnViYXI9bm8sc2Nyb2xsYmFycz1ubyxsb2NhdGlvbj1ubyxzdGF0dXM9bm9zdGF0dXMiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0LmVxdWFsKDEsIDEsICdvbmUgZXF1YWwgb25lJyk7Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coIm9wZW5pbmcgd2luZG93IHJvYiIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gb25PcGVuKCkgewogICAgICAgICAgICAgICAgRi53aW4ucmVzaXplVG8oNzUwLCA1NjgpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0LmVxdWFsKDEsIDEsICdvbmUgZXF1YWwgb25lJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiYXJrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
