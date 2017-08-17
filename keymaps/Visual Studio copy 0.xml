@@ -1,0 +1,5 @@
+<keymap version="1" name="Visual Studio copy 0" parent="Visual Studio">
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+</keymap>
