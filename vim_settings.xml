@@ -18,11 +18,12 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="C:/nginx-1.13.3/html/funcunit/browser/open.js" timestamp="1502977200551">
-        <mark key="'" line="15" column="2" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="36" />
-        <mark key="." line="80" column="0" />
+      <file name="C:/nginx-1.13.3/html/funcunit/browser/open.js" timestamp="1502987297460">
+        <mark key="'" line="293" column="4" />
+        <mark key="[" line="65" column="33" />
+        <mark key="]" line="65" column="43" />
+        <mark key="." line="65" column="43" />
+        <mark key="^" line="65" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/83a1aeaa-64c1-4b78-82e3-77c8dd3dbc97/console.sql" timestamp="1502284945275">
         <mark key="[" line="0" column="21" />
@@ -30,17 +31,24 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="21" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1502988417320">
+        <mark key="[" line="0" column="78" />
+        <mark key="]" line="0" column="78" />
+        <mark key="^" line="0" column="245" />
+        <mark key="." line="0" column="78" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4ddde90-ec9c-4cf6-bc4b-2a1e551f1508/console_1.sql" timestamp="1502646693150">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1502976964120">
-        <mark key="'" line="56" column="24" />
-        <mark key="[" line="25" column="44" />
-        <mark key="]" line="25" column="44" />
-        <mark key="." line="25" column="44" />
+      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1502988953367">
+        <mark key="'" line="54" column="24" />
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+        <mark key="^" line="3" column="62" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4ddde90-ec9c-4cf6-bc4b-2a1e551f1508/console_3.sql" timestamp="1502842467603">
         <mark key="[" line="2" column="28" />
@@ -110,61 +118,69 @@
       <jump line="80" column="5" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="59" column="24" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="15" column="2" filename="C:/nginx-1.13.3/html/funcunit/browser/open.js" />
+      <jump line="65" column="17" filename="C:/nginx-1.13.3/html/funcunit/browser/open.js" />
+      <jump line="79" column="0" filename="C:/nginx-1.13.3/html/funcunit/browser/open.js" />
+      <jump line="87" column="6" filename="C:/nginx-1.13.3/html/funcunit/browser/open.js" />
+      <jump line="204" column="7" filename="C:/nginx-1.13.3/html/funcunit/browser/open.js" />
+      <jump line="207" column="2" filename="C:/nginx-1.13.3/html/funcunit/browser/open.js" />
+      <jump line="293" column="4" filename="C:/nginx-1.13.3/html/funcunit/browser/open.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coIm9wZW5pbmcgd2luZG93IHJvYiIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>,  &quot;height=1000,toolbar=yes,status=yes,left=&quot;+width/2</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBXaW5cPg==</text>
+        <text encoding="base64">XDxuZXdQYWdlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBGdW5jVW5pdC53aW4gPSB3aW5kb3cub3Blbih1cmwsICJmdW5jdW5pdCIsICAiaGVpZ2h0PTEwMDAsdG9vbGJhcj15ZXMsc3RhdHVzPXllcyxsZWZ0PSIrd2lkdGgvMik7Cg==</text>
+      <register name="0" type="4">
+        <text>'https://d1www.wine.com/auth/register?next=%2F'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coIm9wZW5pbmcgd2luZG93IHJvYiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gb25PcGVuKCkgewogICAgICAgICAgICAgICAgRi53aW4ucmVzaXplVG8oMTAyNCwgNzY4KTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gb25PcGVuKCkgewogICAgICAgICAgICAgICAgRi53aW4ucmVzaXplVG8oNzUwLCA1NjgpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBGLm9wZW4oJ2h0dHBzOi8vZDF3d3cud2luZS5jb20vYXV0aC9yZWdpc3Rlcj9uZXh0PSUyRicsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0LmVxdWFsKDEsIDEsICdvbmUgZXF1YWwgb25lJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGLm9wZW4oImh0dHA6Ly9qc29ucHJldHR5cHJpbnQuY29tLyIsICJoZWlnaHQ9NjQwLHdpZHRoPTk2MCx0b29sYmFyPW5vLG1lbnViYXI9bm8sc2Nyb2xsYmFycz1ubyxsb2NhdGlvbj1ubyxzdGF0dXM9bm9zdGF0dXMiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coIm9wZW5pbmcgd2luZG93IHJvYiIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gb25PcGVuKCkgewogICAgICAgICAgICAgICAgRi53aW4ucmVzaXplVG8oNzUwLCA1NjgpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiYXJrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0LmVxdWFsKDEsIDEsICdvbmUgZXF1YWwgb25lJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXJrCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBXaW5cPg==</last-search>
+      <last-search encoding="base64">XDxuZXdQYWdlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBXaW5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdQYWdlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxhcHBXaW5cPg==</entry>
+        <entry encoding="base64">XDxfb3Blblw+</entry>
+        <entry encoding="base64">XDxuZXdQYWdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
