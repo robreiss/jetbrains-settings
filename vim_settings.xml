@@ -18,8 +18,11 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="C:/nginx-1.13.3/html/funcunit/browser/open.js" timestamp="1502975376687">
+      <file name="C:/nginx-1.13.3/html/funcunit/browser/open.js" timestamp="1502977200551">
         <mark key="'" line="15" column="2" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="36" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/83a1aeaa-64c1-4b78-82e3-77c8dd3dbc97/console.sql" timestamp="1502284945275">
         <mark key="[" line="0" column="21" />
@@ -33,11 +36,11 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1502974301811">
-        <mark key="'" line="60" column="24" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1502976964120">
+        <mark key="'" line="56" column="24" />
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="25" column="44" />
+        <mark key="." line="25" column="44" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4ddde90-ec9c-4cf6-bc4b-2a1e551f1508/console_3.sql" timestamp="1502842467603">
         <mark key="[" line="2" column="28" />
@@ -110,43 +113,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0LmVxdWFsKDEsIDEsICdvbmUgZXF1YWwgb25lJyk7Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coIm9wZW5pbmcgd2luZG93IHJvYiIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>,  &quot;height=1000,toolbar=yes,status=yes,left=&quot;+width/2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBXaW5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUIFRPUCAzMCAqCkZST00gY3VzdG9tZXIgYyAoIE5PTE9DSyApCldIRVJFCiAgYy5iaXJ0aGRhdGUgPSAnMTkwMC0wMS0wMScKICBBTkQgTk9UIGMuYmlydGhkYXRlID0gJzE5MDAtMDEtMDEgMDA6MDA6MDAuMDAwJwo=</text>
+        <text encoding="base64">ICAgICAgICBGdW5jVW5pdC53aW4gPSB3aW5kb3cub3Blbih1cmwsICJmdW5jdW5pdCIsICAiaGVpZ2h0PTEwMDAsdG9vbGJhcj15ZXMsc3RhdHVzPXllcyxsZWZ0PSIrd2lkdGgvMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0LmVxdWFsKDEsIDEsICdvbmUgZXF1YWwgb25lJyk7Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coIm9wZW5pbmcgd2luZG93IHJvYiIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gb25PcGVuKCkgewogICAgICAgICAgICAgICAgRi53aW4ucmVzaXplVG8oNzUwLCA1NjgpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0LmVxdWFsKDEsIDEsICdvbmUgZXF1YWwgb25lJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiYXJrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXJrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VVBEQVRFIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
