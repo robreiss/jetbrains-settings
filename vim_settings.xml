@@ -1,0 +1,166 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1502930148304">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/source/GenX.UI.Web/GenX.UI.CustomerCare/OrderDetails.aspx" timestamp="1502735614465">
+        <mark key="[" line="61" column="39" />
+        <mark key="]" line="48" column="92" />
+        <mark key="^" line="48" column="92" />
+        <mark key="." line="48" column="92" />
+      </file>
+      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1502936360543">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="8" />
+        <mark key="." line="30" column="8" />
+        <mark key="^" line="30" column="50" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/83a1aeaa-64c1-4b78-82e3-77c8dd3dbc97/console.sql" timestamp="1502284945275">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="21" />
+      </file>
+      <file name="C:/nginx-1.13.3/html/examples/helloworld/qunit_test.js" timestamp="1502840673436">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="75" column="0" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="76" column="0" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>global</text>
+      </register>
+      <register name="-" type="4">
+        <text>global</text>
+      </register>
+      <register name="0" type="4">
+        <text>&quot;http://jsonprettyprint.com/&quot;</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBnbG9iYWwuYnJvd3Nlckhpc3RvcnkucHVzaCgiZ29vZ2xlLmNvbSIpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImJvbyIpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImhlbGxvIHJvYiIpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZvciAoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEYub3BlbignaHR0cHM6Ly9kMXd3dy53aW5lLmNvbS9hdXRoL3JlZ2lzdGVyP25leHQ9JTJGJywgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgRi53aW4ucmVzaXplVG8oMTAyNCwgNzY4KTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
