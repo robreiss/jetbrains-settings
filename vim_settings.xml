@@ -18,6 +18,9 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="19" />
       </file>
+      <file name="C:/nginx-1.13.3/html/funcunit/browser/open.js" timestamp="1502975376687">
+        <mark key="'" line="15" column="2" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/83a1aeaa-64c1-4b78-82e3-77c8dd3dbc97/console.sql" timestamp="1502284945275">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="21" />
@@ -103,6 +106,7 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d9ebcf62-c04b-4bfe-b965-ce9dba919cda/console_5.sql" />
       <jump line="80" column="5" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="59" column="24" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="15" column="2" filename="C:/nginx-1.13.3/html/funcunit/browser/open.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -110,6 +114,9 @@
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICAgICAg</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxhcHBXaW5cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U0VMRUNUIFRPUCAzMCAqCkZST00gY3VzdG9tZXIgYyAoIE5PTE9DSyApCldIRVJFCiAgYy5iaXJ0aGRhdGUgPSAnMTkwMC0wMS0wMScKICBBTkQgTk9UIGMuYmlydGhkYXRlID0gJzE5MDAtMDEtMDEgMDA6MDA6MDAuMDAwJwo=</text>
@@ -146,11 +153,16 @@
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxhcHBXaW5cPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxhcHBXaW5cPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxhcHBXaW5cPg==</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
