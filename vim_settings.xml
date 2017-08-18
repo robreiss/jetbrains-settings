@@ -49,12 +49,12 @@
         <mark key="." line="19" column="26" />
         <mark key="^" line="29" column="30" />
       </file>
-      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1503014887101">
-        <mark key="'" line="156" column="24" />
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="17" />
-        <mark key="^" line="9" column="18" />
-        <mark key="." line="8" column="17" />
+      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1503061277296">
+        <mark key="'" line="158" column="24" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="25" />
+        <mark key="^" line="164" column="7" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4ddde90-ec9c-4cf6-bc4b-2a1e551f1508/console_3.sql" timestamp="1502842467603">
         <mark key="[" line="2" column="28" />
@@ -146,11 +146,11 @@
       <jump line="156" column="24" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBGLndhaXQocGFnZVdhaXQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text encoding="base64">c3RyZWV0IGZpcnN0IGJlY2F1c2UgcHJldmlvdXMgZm9ybXMg</text>
       </register>
       <register name="/" type="4">
         <text>checkout</text>
@@ -159,31 +159,31 @@
         <text encoding="base64">ICAgICAgICBGLndhaXQocGFnZVdhaXQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBGLndhaXQoMjAwMCk7Cg==</text>
+        <text encoding="base64">ICAgIEYob2JqX1N0cmVldEFkZHJlc3MpLnR5cGUoY3VzdDBBZGRyZXNzMSk7CiAgICBGKG9ial9DaXR5KS50eXBlKGN1c3QwQ2l0eSk7CiAgICBGKG9ial9aaXApLnR5cGUoY3VzdDBaaXApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGLndhaXQocGFnZVdhaXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBGLndhaXQoMjAwMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEYoJy5vcmRlclN1bW1hcnlfaGVhZGxpbmUnKS52aXNpYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGLndhaXQocGFnZVdhaXQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZUN1c3RvbWVyKCcwJyk7Cg==</text>
+        <text encoding="base64">ICAgIEYoJy5vcmRlclN1bW1hcnlfaGVhZGxpbmUnKS52aXNpYmxlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZUN1c3RvbWVyKCcwJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gImFbaHJlZj0nL2F1dGgvc2lnbmluJ10iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gImFbaHJlZj0nL2F1dGgvc2lnbmluJ10iCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEYoKS5jbGljaygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
