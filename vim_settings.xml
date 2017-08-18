@@ -43,18 +43,18 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha.html" timestamp="1503006812378">
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="30" />
-        <mark key="." line="29" column="30" />
+      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha.html" timestamp="1503013780482">
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
         <mark key="^" line="29" column="30" />
       </file>
-      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1503008529407">
-        <mark key="'" line="149" column="24" />
-        <mark key="[" line="54" column="32" />
-        <mark key="]" line="54" column="32" />
-        <mark key="^" line="117" column="37" />
-        <mark key="." line="54" column="32" />
+      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1503014887101">
+        <mark key="'" line="156" column="24" />
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="8" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4ddde90-ec9c-4cf6-bc4b-2a1e551f1508/console_3.sql" timestamp="1502842467603">
         <mark key="[" line="2" column="28" />
@@ -98,6 +98,9 @@
       <file name="/a.sql" timestamp="1502747186323">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="editor.codeinsight.xml" timestamp="1503010263551">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/source/GenX.UI.Windows/GenX.UI.WindowsBase/WinFormBase.cs" timestamp="1502969941401">
         <mark key="'" line="55" column="0" />
       </file>
@@ -130,55 +133,66 @@
       <jump line="204" column="7" filename="C:/nginx-1.13.3/html/funcunit/browser/open.js" />
       <jump line="207" column="2" filename="C:/nginx-1.13.3/html/funcunit/browser/open.js" />
       <jump line="293" column="4" filename="C:/nginx-1.13.3/html/funcunit/browser/open.js" />
+      <jump line="129" column="37" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="140" column="4" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="117" column="4" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="120" column="9" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="147" column="12" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="121" column="4" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="124" column="9" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="144" column="4" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="62" column="55" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="63" column="53" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="156" column="24" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>768</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>768</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdQYWdlXD4=</text>
+        <text>checkout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGl0KCduZXcgY3VzdG9tZXInLCAoZG9uZSkgPT4gewogICAgICAgIG9wZW5TdGFydFBhZ2UoKTsKICAgICAgICBjcmVhdGVDdXN0b21lcigzKTsKICAgICAgICBzaWduT3V0KCk7CiAgICAgICAgRi5kb25lKGRvbmUpOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGLndhaXQocGFnZVdhaXQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEYoJy5hY2NvdW50QnRuX2ljb24nKS5jbGljaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBGLndhaXQoMjAwMCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuU3RhcnRQYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGLndhaXQocGFnZVdhaXQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEYoJy5vcmRlclN1bW1hcnlfaGVhZGxpbmUnKS52aXNpYmxlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuU3RhcnRQYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZUN1c3RvbWVyKCcwJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBGLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVDdXN0b21lcig0KTsKICAgICAgICBzaWduT3V0KCk7Cg==</text>
+        <text encoding="base64">Ly8gImFbaHJlZj0nL2F1dGgvc2lnbmluJ10iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gRmRvbmUoZG9uZSkgewp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEYoKS50aGVuKCgpID0+IHsKICAgICAgICBkb25lKCk7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgIEYoKS5jbGljaygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXdQYWdlXD4=</last-search>
+      <last-search>checkout</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdQYWdlXD4=</last-pattern>
+      <last-pattern>checkout</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -187,6 +201,8 @@
         <entry encoding="base64">XDxhcHBXaW5cPg==</entry>
         <entry encoding="base64">XDxfb3Blblw+</entry>
         <entry encoding="base64">XDxuZXdQYWdlXD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVDdXN0b21lclw+</entry>
+        <entry>checkout</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
