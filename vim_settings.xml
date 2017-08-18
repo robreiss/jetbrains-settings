@@ -43,18 +43,18 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha.html" timestamp="1503062052422">
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="27" />
-        <mark key="." line="19" column="27" />
-        <mark key="^" line="19" column="27" />
+      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha.html" timestamp="1503080738450">
+        <mark key="[" line="26" column="45" />
+        <mark key="]" line="26" column="45" />
+        <mark key="." line="26" column="45" />
+        <mark key="^" line="26" column="45" />
       </file>
-      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1503075064837">
-        <mark key="'" line="134" column="6" />
-        <mark key="[" line="155" column="88" />
-        <mark key="]" line="155" column="88" />
-        <mark key="^" line="155" column="101" />
-        <mark key="." line="155" column="88" />
+      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1503081980698">
+        <mark key="'" line="162" column="6" />
+        <mark key="[" line="116" column="41" />
+        <mark key="]" line="116" column="49" />
+        <mark key="^" line="116" column="49" />
+        <mark key="." line="116" column="49" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4ddde90-ec9c-4cf6-bc4b-2a1e551f1508/console_3.sql" timestamp="1502842467603">
         <mark key="[" line="2" column="28" />
@@ -164,44 +164,44 @@
       <jump line="134" column="6" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>form</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>form</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvYmpfRmlyc3ROYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEYubG9nKCdwaWNraW5nIHdpbmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRihvYmpfU2lnbm91dCkuY2xpY2soKCkgPT4gewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3NpZ25vdXQgY2xpY2tlZCcpOwogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGZpcnN0bmFtZSB0ZXh0Ym94IGFsc28K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGLndhaXQocGFnZVdhaXQpOwogICAgICAgIC8vIEYud2FpdChwYWdlV2FpdCAqIDQpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEYubG9nKCdzaWduaW5nIG91dCcpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2lnbmluZyBvdXQnKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAoKSA9PiB7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2lnbmluZyBvdXQnKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJdmFyIHRpbWVvdXQgPSAxNTAwMDsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">RigpLnRoZW4oKCkgPT4gewogICAgY29uc29sZS5sb2coJ2NyZWF0aW5nIGN1c3RvbWVyJykKfSkK</text>
+        <text encoding="base64">ICAgIC8vIGZpcnN0bmFtZSB0ZXh0Ym94IGFsc28K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEYoKS50aGVuKCgpID0+IHsKICAgICAgICBjb25zb2xlLmxvZygnY3JlYXRpbmcgY3VzdG9tZXInKQogICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBGLndhaXQocGFnZVdhaXQpOwogICAgICAgIC8vIEYud2FpdChwYWdlV2FpdCAqIDQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
