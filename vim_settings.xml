@@ -49,12 +49,12 @@
         <mark key="." line="19" column="27" />
         <mark key="^" line="19" column="27" />
       </file>
-      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1503062955835">
-        <mark key="'" line="96" column="9" />
-        <mark key="[" line="113" column="32" />
-        <mark key="]" line="113" column="31" />
-        <mark key="^" line="113" column="31" />
-        <mark key="." line="113" column="31" />
+      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1503064094121">
+        <mark key="'" line="57" column="32" />
+        <mark key="[" line="113" column="28" />
+        <mark key="]" line="113" column="28" />
+        <mark key="^" line="113" column="28" />
+        <mark key="." line="113" column="28" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4ddde90-ec9c-4cf6-bc4b-2a1e551f1508/console_3.sql" timestamp="1502842467603">
         <mark key="[" line="2" column="28" />
@@ -145,16 +145,28 @@
       <jump line="63" column="53" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="156" column="24" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="96" column="9" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="0" column="0" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="20" column="0" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="21" column="22" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="28" column="26" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="29" column="25" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="34" column="28" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="35" column="28" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="41" column="23" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="42" column="20" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="45" column="22" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="52" column="21" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="57" column="32" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>visible</text>
+        <text>&quot;).exists()</text>
       </register>
       <register name="-" type="4">
-        <text>visible</text>
+        <text>&quot;).exists()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcGVuU3RhcnRQYWdlXD4=</text>
+        <text>contain</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBGLndhaXQocGFnZVdhaXQpOwo=</text>
@@ -191,9 +203,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcGVuU3RhcnRQYWdlXD4=</last-search>
+      <last-search>contain</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcGVuU3RhcnRQYWdlXD4=</last-pattern>
+      <last-pattern>contain</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -205,6 +217,7 @@
         <entry encoding="base64">XDxjcmVhdGVDdXN0b21lclw+</entry>
         <entry>checkout</entry>
         <entry encoding="base64">XDxvcGVuU3RhcnRQYWdlXD4=</entry>
+        <entry>contain</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
