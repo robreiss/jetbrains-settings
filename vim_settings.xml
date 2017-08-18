@@ -49,12 +49,12 @@
         <mark key="." line="19" column="27" />
         <mark key="^" line="19" column="27" />
       </file>
-      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1503064094121">
+      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1503070420161">
         <mark key="'" line="57" column="32" />
-        <mark key="[" line="113" column="28" />
-        <mark key="]" line="113" column="28" />
-        <mark key="^" line="113" column="28" />
-        <mark key="." line="113" column="28" />
+        <mark key="[" line="114" column="64" />
+        <mark key="]" line="114" column="64" />
+        <mark key="." line="114" column="64" />
+        <mark key="^" line="114" column="63" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4ddde90-ec9c-4cf6-bc4b-2a1e551f1508/console_3.sql" timestamp="1502842467603">
         <mark key="[" line="2" column="28" />
@@ -160,43 +160,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;).exists()</text>
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;).exists()</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>contain</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBGLndhaXQocGFnZVdhaXQpOwo=</text>
+        <text encoding="base64">ICAgIEYud2FpdE1hdGNoKCcuYWNjb3VudEJ0biAud2VsY29tZVVzZXJGaXJzdE5hbWUnLCAnV2VsY29tZSwgIScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIEYud2FpdCgxMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY3JlYXRpbmcgY3VzdG9tZXInKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEYud2FpdCg1MDApOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEYud2FpdCg1MDApCg==</text>
+        <text encoding="base64">ICAgIC8vIEYud2FpdCgxMDAwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEYud2FpdCgzMDApOwo=</text>
+        <text encoding="base64">ICAgIEYud2FpdCg1MDApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEYob2JqX1N0cmVldEFkZHJlc3MpLnR5cGUoY3VzdDBBZGRyZXNzMSk7CiAgICBGKG9ial9DaXR5KS50eXBlKGN1c3QwQ2l0eSk7CiAgICBGKG9ial9aaXApLnR5cGUoY3VzdDBaaXApOwo=</text>
+        <text encoding="base64">ICAgIEYud2FpdCg1MDApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBGLndhaXQoMjAwMCk7Cg==</text>
+        <text encoding="base64">ICAgIEYud2FpdCgzMDApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGLndhaXQocGFnZVdhaXQpOwo=</text>
+        <text encoding="base64">ICAgIEYob2JqX1N0cmVldEFkZHJlc3MpLnR5cGUoY3VzdDBBZGRyZXNzMSk7CiAgICBGKG9ial9DaXR5KS50eXBlKGN1c3QwQ2l0eSk7CiAgICBGKG9ial9aaXApLnR5cGUoY3VzdDBaaXApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEYoJy5vcmRlclN1bW1hcnlfaGVhZGxpbmUnKS52aXNpYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGLndhaXQoMjAwMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZUN1c3RvbWVyKCcwJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGLndhaXQocGFnZVdhaXQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
