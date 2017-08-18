@@ -49,12 +49,12 @@
         <mark key="." line="19" column="27" />
         <mark key="^" line="19" column="27" />
       </file>
-      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1503072179785">
-        <mark key="'" line="57" column="32" />
-        <mark key="[" line="114" column="63" />
-        <mark key="]" line="122" column="56" />
-        <mark key="." line="122" column="56" />
-        <mark key="^" line="122" column="56" />
+      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1503075064837">
+        <mark key="'" line="134" column="6" />
+        <mark key="[" line="155" column="88" />
+        <mark key="]" line="155" column="88" />
+        <mark key="^" line="155" column="101" />
+        <mark key="." line="155" column="88" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4ddde90-ec9c-4cf6-bc4b-2a1e551f1508/console_3.sql" timestamp="1502842467603">
         <mark key="[" line="2" column="28" />
@@ -137,7 +137,6 @@
       <jump line="140" column="4" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="117" column="4" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="120" column="9" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
-      <jump line="147" column="12" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="121" column="4" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="124" column="9" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="144" column="4" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
@@ -145,7 +144,6 @@
       <jump line="63" column="53" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="156" column="24" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="96" column="9" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
-      <jump line="0" column="0" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="20" column="0" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="21" column="22" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="28" column="26" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
@@ -157,55 +155,62 @@
       <jump line="45" column="22" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="52" column="21" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="57" column="32" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="147" column="4" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="0" column="0" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="93" column="4" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="92" column="8" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="159" column="6" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="53" column="4" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="134" column="6" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>none</text>
+        <text>form</text>
       </register>
       <register name="-" type="4">
-        <text>none</text>
+        <text>form</text>
       </register>
       <register name="/" type="4">
-        <text>contain</text>
+        <text encoding="base64">XDxvYmpfRmlyc3ROYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEYoJy5hY2NvdW50QnRuIC53ZWxjb21lVXNlckZpcnN0TmFtZScpLmV4aXN0cygoKSA9PiB7CiAgICAgICAgY29uc29sZS5sb2coJCgnLmFjY291bnRCdG4gLndlbGNvbWVVc2VyRmlyc3ROYW1lJykudGV4dCgpKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIEYubG9nKCdwaWNraW5nIHdpbmUnKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICAgIGNvbnNvbGUubG9nKCQoJy5hY2NvdW50QnRuIC53ZWxjb21lVXNlckZpcnN0TmFtZScpLnRleHQoKSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vIGZpcnN0bmFtZSB0ZXh0Ym94IGFsc28K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY3JlYXRpbmcgY3VzdG9tZXInKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBGLndhaXQocGFnZVdhaXQpOwogICAgICAgIC8vIEYud2FpdChwYWdlV2FpdCAqIDQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEYubG9nKCdzaWduaW5nIG91dCcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIEYud2FpdCgxMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2lnbmluZyBvdXQnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEYud2FpdCg1MDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAoKSA9PiB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEYud2FpdCg1MDApCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2lnbmluZyBvdXQnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEYud2FpdCgzMDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEYob2JqX1N0cmVldEFkZHJlc3MpLnR5cGUoY3VzdDBBZGRyZXNzMSk7CiAgICBGKG9ial9DaXR5KS50eXBlKGN1c3QwQ2l0eSk7CiAgICBGKG9ial9aaXApLnR5cGUoY3VzdDBaaXApOwo=</text>
+        <text encoding="base64">RigpLnRoZW4oKCkgPT4gewogICAgY29uc29sZS5sb2coJ2NyZWF0aW5nIGN1c3RvbWVyJykKfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGLndhaXQoMjAwMCk7Cg==</text>
+        <text encoding="base64">ICAgIEYoKS50aGVuKCgpID0+IHsKICAgICAgICBjb25zb2xlLmxvZygnY3JlYXRpbmcgY3VzdG9tZXInKQogICAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>contain</last-search>
+      <last-search encoding="base64">XDxvYmpfRmlyc3ROYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern>contain</last-pattern>
+      <last-pattern encoding="base64">XDxvYmpfRmlyc3ROYW1lXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -218,6 +223,8 @@
         <entry>checkout</entry>
         <entry encoding="base64">XDxvcGVuU3RhcnRQYWdlXD4=</entry>
         <entry>contain</entry>
+        <entry>console</entry>
+        <entry encoding="base64">XDxvYmpfRmlyc3ROYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
