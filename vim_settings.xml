@@ -61,6 +61,12 @@
         <mark key="." line="2" column="8" />
         <mark key="^" line="3" column="14" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5cc1ed60-8325-4c91-ad98-e6809b7996df/console_1.sql" timestamp="1503124879730">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4ddde90-ec9c-4cf6-bc4b-2a1e551f1508/console_3.sql" timestamp="1502842467603">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="29" />
