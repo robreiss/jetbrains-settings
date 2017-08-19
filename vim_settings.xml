@@ -43,18 +43,18 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha.html" timestamp="1503101255005">
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-        <mark key="^" line="18" column="11" />
+      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha.html" timestamp="1503117720268">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="25" />
+        <mark key="." line="29" column="25" />
+        <mark key="^" line="18" column="89" />
       </file>
-      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1503113482155">
-        <mark key="'" line="211" column="8" />
-        <mark key="[" line="185" column="42" />
-        <mark key="]" line="181" column="30" />
-        <mark key="^" line="181" column="30" />
-        <mark key="." line="181" column="30" />
+      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1503119060730">
+        <mark key="'" line="187" column="10" />
+        <mark key="[" line="186" column="44" />
+        <mark key="]" line="188" column="11" />
+        <mark key="^" line="188" column="11" />
+        <mark key="." line="188" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4ddde90-ec9c-4cf6-bc4b-2a1e551f1508/console_3.sql" timestamp="1502842467603">
         <mark key="[" line="2" column="28" />
@@ -147,7 +147,6 @@
       <jump line="35" column="28" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="42" column="20" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="45" column="22" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
-      <jump line="57" column="32" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="147" column="4" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="0" column="0" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="53" column="4" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
@@ -199,62 +198,63 @@
       <jump line="92" column="9" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="181" column="8" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
       <jump line="183" column="8" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="57" column="34" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="189" column="12" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
+      <jump line="187" column="10" filename="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja291dFJlY2lwaWVudFw+</text>
+        <text encoding="base64">XDxicmFuY2hcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBGLndhaXRNYXRjaCgnLmRlbGl2ZXJ5X2FjdGlvblRleHQ6aGlkZGVuJywgJ0NvbnRpbnVlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGLmxvZygnZ290byBzaG9wcGluZyBjYXJ0Jyk7CiAgICAgICAgRigiLmNhcnRCdG4iKS5jbGljaygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBteXN0ZXJ5OiB3YWl0IGZvciB0aGUgcGF5bWVudCBidXR0b24gdG8gZ28gYXdheSBiZWZvcmUgY2xpY2tpbmcgb24gdGhlICJQbGFjZSBPcmRlciIgYnV0dG9uIG9yIGRvZXNuJ3Qgd29yawo=</text>
+        <text encoding="base64">ICAgICAgICBGLmxvZygnd2FpdGluZyB0aGVuIGNsaWNraW5nIHBheSB3aXRoIHRoaXMgY2FyZCcpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyIGN1c3QwRW1haWw9ICdycmVpc3NAd2luZS5jb20nCg==</text>
+        <text encoding="base64">ICAgICAgICBGLndhaXQoNDAwMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGKCkudGhlbigoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ym9keSA+IGRpdi5tb2JpbGVQYWdlID4gZGl2LnNjcm9sbGFibGVDb250ZW50ID4gbWFpbiA+IHNlY3Rpb24uYWNjb3VudFBhZ2UgPiBzZWN0aW9uID4gZGl2ID4gdWwub3JkZXJzX2NvbGxlY3Rpb24gPiBsaTpudGgtY2hpbGQoMSkgPiBkaXYgPiBkaXYub3JkZXJDYXJkX3N0YXR1cyA+IHNwYW4ub3JkZXJDYXJkX3N0YXR1c1RleHQK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyh4KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGLndpbi5sb2NhbFN0b3JhZ2UuY2xlYXIoKTsKICAgICAgICBGLndpbi5zZXNzaW9uU3RvcmFnZS5jbGVhcigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gUygiI2dyb3VwQWN0aW9ucyBvcHRpb246ZXEoMSkiKS5jbGljaygpLCAiQ2xpY2tlZCBvbiBEZWxldGUiKTsK</text>
+        <text encoding="base64">ICAgICAgICBGLndpbi5icm93c2VyRGF0YS5yZW1vdmVDb29raWVzKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEYoJy5qb2luTm93QnRuJykuY2xpY2soKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIn0iOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlQ3VzdG9tZXJGcm9tRnJvbnQoY291bnQpIHsKfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiAgICQucmVtb3ZlQ29va2llKGNvb2tpZSk7XG4iICsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVDdXN0b21lckZyb21Gcm9udCgnMycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImZvcih2YXIgY29va2llIGluIGNvb2tpZXMpIHtcbiIgKwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja291dFJlY2lwaWVudFw+</last-search>
+      <last-search encoding="base64">XDxicmFuY2hcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja291dFJlY2lwaWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxicmFuY2hcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvYmpfQ2l0eVw+</entry>
-        <entry encoding="base64">XDxvYmpfQ3JlYXRlQWNjb3VudFw+</entry>
         <entry encoding="base64">XDxvYmpfSm9pbk5vd1w+</entry>
         <entry encoding="base64">XDxvYmpfU2VhcmNoU3ltYm9sXD4=</entry>
         <entry encoding="base64">XDxvYmpfTG9naW5Vc2VybmFtZVw+</entry>
@@ -273,6 +273,8 @@
         <entry encoding="base64">XDxjcmVhdGVDdXN0b21lckZyb21Gcm9udFw+</entry>
         <entry encoding="base64">XDxjcmVhdGVDdXN0b21lclw+</entry>
         <entry encoding="base64">XDxjaGVja291dFJlY2lwaWVudFw+</entry>
+        <entry encoding="base64">XDxjb250aW51ZVNob3BwaW5nQnV0dG9uXD4=</entry>
+        <entry encoding="base64">XDxicmFuY2hcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
