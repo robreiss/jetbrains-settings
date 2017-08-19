@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503100895477" />
-      <file name="/Dummy.txt" timestamp="1502838333186">
+      <file name="/Dummy.txt" timestamp="1503122254540">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -55,6 +55,12 @@
       <file name="/a.sql" timestamp="1502747186323">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d9ebcf62-c04b-4bfe-b965-ce9dba919cda/console_7.sql" timestamp="1503122299748">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+        <mark key="^" line="3" column="14" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4ddde90-ec9c-4cf6-bc4b-2a1e551f1508/console_3.sql" timestamp="1502842467603">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="29" />
@@ -91,8 +97,8 @@
       <register name="1" type="2">
         <text encoding="base64">c2VsZWN0IHRvcCAyOSAqIGZyb20gCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0IHRvcCAyOSAqIGZyb20gCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZW9yZGVyX2lkIA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioK</text>
@@ -113,7 +119,7 @@
         <text encoding="base64">LS0K</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text encoding="base64">ZW9yZGVyX2lkIA==</text>
       </register>
     </registers>
     <search>
