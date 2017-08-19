@@ -58,12 +58,12 @@
       <file name="/a.sql" timestamp="1502747186323">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GoogleDrive/winedrive/WineNotes.txt" timestamp="1503112029383">
+      <file name="$USER_HOME$/GoogleDrive/winedrive/WineNotes.txt" timestamp="1503112770158">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="344" column="27" />
-        <mark key="]" line="344" column="8" />
-        <mark key="^" line="344" column="8" />
-        <mark key="." line="344" column="8" />
+        <mark key="[" line="343" column="5" />
+        <mark key="]" line="343" column="0" />
+        <mark key="^" line="343" column="0" />
+        <mark key="." line="343" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4ddde90-ec9c-4cf6-bc4b-2a1e551f1508/console.sql" timestamp="1502731975481">
         <mark key="[" line="0" column="0" />
@@ -115,8 +115,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/GoogleDrive/winedrive/WineNotes.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y3JlYXRlcyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">V2hlbiBuZXcgY3VzdG9tZXIgY2hlY2tzb3V0IHRoZXJlIGlzIG5vIG9wdXJ0dW5pdHkgdG8gc2F2ZSB0aGUgUmVjaXBpZW50IEFkZHJlc3MgYXMgcHJlZmVyZWQgYWRkcmVzcwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Y3JlYXRlcyA=</text>
@@ -125,13 +125,13 @@
         <text encoding="base64">U0VMRUNUIFRPUCAzMCAqCkZST00gY3VzdG9tZXIgYyAoIE5PTE9DSyApCldIRVJFCiAgYy5iaXJ0aGRhdGUgPSAnMTkwMC0wMS0wMScKICBBTkQgTk9UIGMuYmlydGhkYXRlID0gJzE5MDAtMDEtMDEgMDA6MDA6MDAuMDAwJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiYXJrCg==</text>
+        <text encoding="base64">V2hlbiBuZXcgY3VzdG9tZXIgY2hlY2tzb3V0IHRoZXJlIGlzIG5vIG9wdXJ0dW5pdHkgdG8gc2F2ZSB0aGUgUmVjaXBpZW50IEFkZHJlc3MgYXMgcHJlZmVyZWQgYWRkcmVzcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioK</text>
+        <text encoding="base64">ICAgICAgICBiYXJrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -140,16 +140,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VVBEQVRFIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0K</text>
+        <text encoding="base64">VVBEQVRFIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEYub3BlbignaHR0cHM6Ly9kMXd3dy53aW5lLmNvbS9hdXRoL3JlZ2lzdGVyP25leHQ9JTJGJywgCg==</text>
+        <text encoding="base64">LS0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEYub3BlbignaHR0cHM6Ly9kMXd3dy53aW5lLmNvbS9hdXRoL3JlZ2lzdGVyP25leHQ9JTJGJywgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
