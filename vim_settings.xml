@@ -31,11 +31,11 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1503077234455">
-        <mark key="[" line="0" column="124" />
-        <mark key="]" line="0" column="78" />
-        <mark key="^" line="0" column="245" />
-        <mark key="." line="0" column="78" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1503101839197">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="167" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4ddde90-ec9c-4cf6-bc4b-2a1e551f1508/console_1.sql" timestamp="1502646693150">
         <mark key="[" line="3" column="26" />
@@ -43,18 +43,18 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha.html" timestamp="1503098696454">
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="24" />
-        <mark key="." line="28" column="24" />
-        <mark key="^" line="18" column="89" />
+      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha.html" timestamp="1503101255005">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="11" />
       </file>
-      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1503100403674">
+      <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha_test.js" timestamp="1503101482276">
         <mark key="'" line="181" column="8" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="188" column="23" />
-        <mark key="." line="105" column="0" />
+        <mark key="[" line="78" column="37" />
+        <mark key="]" line="78" column="49" />
+        <mark key="^" line="78" column="49" />
+        <mark key="." line="78" column="49" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4ddde90-ec9c-4cf6-bc4b-2a1e551f1508/console_3.sql" timestamp="1502842467603">
         <mark key="[" line="2" column="28" />
@@ -202,43 +202,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ym9keSA+IGRpdi5tb2JpbGVQYWdlID4gZGl2LnNjcm9sbGFibGVDb250ZW50ID4gbWFpbiA+IHNlY3Rpb24uYWNjb3VudFBhZ2UgPiBzZWN0aW9uID4gZGl2ID4gdWwub3JkZXJzX2NvbGxlY3Rpb24gPiBsaTpudGgtY2hpbGQoMSkgPiBkaXYgPiBkaXYub3JkZXJDYXJkX3N0YXR1cyA+IHNwYW4ub3JkZXJDYXJkX3N0YXR1c1RleHQK</text>
       </register>
       <register name="-" type="4">
-        <text>count</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja291dFJlY2lwaWVudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEYoJ2EuZmluYWxSZXZpZXdfYnRuJykuY2xpY2soKTsK</text>
+        <text encoding="base64">CQkJbW9jaGEuc2V0dXAoeyB1aTogJ2JkZCcsIHJlcG9ydGVyOiBaV2ViQ29uc29sZVJlcG9ydGVyLCBiYWlsOiB0cnVlLCB0aW1lb3V0OiA2MDAwMH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ym9keSA+IGRpdi5tb2JpbGVQYWdlID4gZGl2LnNjcm9sbGFibGVDb250ZW50ID4gbWFpbiA+IHNlY3Rpb24uYWNjb3VudFBhZ2UgPiBzZWN0aW9uID4gZGl2ID4gdWwub3JkZXJzX2NvbGxlY3Rpb24gPiBsaTpudGgtY2hpbGQoMSkgPiBkaXYgPiBkaXYub3JkZXJDYXJkX3N0YXR1cyA+IHNwYW4ub3JkZXJDYXJkX3N0YXR1c1RleHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gUygiI2dyb3VwQWN0aW9ucyBvcHRpb246ZXEoMSkiKS5jbGljaygpLCAiQ2xpY2tlZCBvbiBEZWxldGUiKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEYoJy5qb2luTm93QnRuJykuY2xpY2soKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlQ3VzdG9tZXJGcm9tRnJvbnQoY291bnQpIHsKfQoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVDdXN0b21lckZyb21Gcm9udCgnMycpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEYoJ2FbaHJlZj0iL2F1dGgvc2lnbmluIl0nKS5jbGljaygpOwogICAgY3JlYXRlQ3VzdG9tZXIoY291bnQpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGl0LnNraXAoJ25ldyBjdXN0b21lciAyJywgKGRvbmUpID0+IHsKICAgICAgICBJbnN1cmVTaWduZWRPdXQoKTsKICAgICAgICBjcmVhdGVDdXN0b21lckZyb21Gcm9udCgnNCcpOwogICAgICAgIEYuZG9uZShkb25lKTsKICAgIH0pOwoK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gUygiI2dyb3VwQWN0aW9ucyBvcHRpb246ZXEoMSkiKS5jbGljaygpLCAiQ2xpY2tlZCBvbiBEZWxldGUiKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEYoJy5qb2luTm93QnRuJykuY2xpY2soKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlQ3VzdG9tZXJGcm9tRnJvbnQoY291bnQpIHsKfQoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjcmVhdGVDdXN0b21lckZyb21Gcm9udCgnMycpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEYoJ2FbaHJlZj0iL2F1dGgvc2lnbmluIl0nKS5jbGljaygpOwogICAgY3JlYXRlQ3VzdG9tZXIoY291bnQpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGl0LnNraXAoJ25ldyBjdXN0b21lciAyJywgKGRvbmUpID0+IHsKICAgICAgICBJbnN1cmVTaWduZWRPdXQoKTsKICAgICAgICBjcmVhdGVDdXN0b21lckZyb21Gcm9udCgnNCcpOwogICAgICAgIEYuZG9uZShkb25lKTsKICAgIH0pOwoK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIG9ial9TaWdub3V0ID0gOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
