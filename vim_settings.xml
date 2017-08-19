@@ -58,12 +58,12 @@
       <file name="/a.sql" timestamp="1502747186323">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GoogleDrive/winedrive/WineNotes.txt" timestamp="1503101961810">
+      <file name="$USER_HOME$/GoogleDrive/winedrive/WineNotes.txt" timestamp="1503112029383">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="344" column="27" />
+        <mark key="]" line="344" column="8" />
+        <mark key="^" line="344" column="8" />
+        <mark key="." line="344" column="8" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4ddde90-ec9c-4cf6-bc4b-2a1e551f1508/console.sql" timestamp="1502731975481">
         <mark key="[" line="0" column="0" />
@@ -116,10 +116,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Y3JlYXRlcyA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Y3JlYXRlcyA=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U0VMRUNUIFRPUCAzMCAqCkZST00gY3VzdG9tZXIgYyAoIE5PTE9DSyApCldIRVJFCiAgYy5iaXJ0aGRhdGUgPSAnMTkwMC0wMS0wMScKICBBTkQgTk9UIGMuYmlydGhkYXRlID0gJzE5MDAtMDEtMDEgMDA6MDA6MDAuMDAwJwo=</text>
