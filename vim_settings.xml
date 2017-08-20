@@ -68,7 +68,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b074ccca-fb4d-4992-9ddc-3b650faeb970/console.sql" timestamp="1502571648121">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503253624279">
+      <file name="/Dummy.txt" timestamp="1503255078442">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -80,11 +80,11 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1503253368639">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="167" />
-        <mark key="." line="4" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1503254989563">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
       </file>
       <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha.html" timestamp="1503123465759">
         <mark key="[" line="8" column="0" />
