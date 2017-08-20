@@ -31,11 +31,11 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1503101839197">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="167" />
-        <mark key="." line="2" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1503242103584">
+        <mark key="[" line="0" column="124" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="167" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4ddde90-ec9c-4cf6-bc4b-2a1e551f1508/console_1.sql" timestamp="1502646693150">
         <mark key="[" line="3" column="26" />
@@ -43,7 +43,6 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="C:/nginx-1.13.3/html/funcunit/browser/queue.js" timestamp="1503119657111" />
       <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha.html" timestamp="1503123465759">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
