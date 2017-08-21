@@ -82,11 +82,11 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1503256136930">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="70" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1503287995678">
+        <mark key="[" line="27" column="113" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="29" />
+        <mark key="^" line="27" column="29" />
       </file>
       <file name="C:/nginx-1.13.3/html/examples/helloworld/mocha.html" timestamp="1503123465759">
         <mark key="[" line="8" column="0" />
